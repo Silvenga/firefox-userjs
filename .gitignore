@@ -1,3 +1,6 @@
 *
 !.gitignore
 !user.js
+!README.md
+!.vscode
+!.vscode/settings.json
